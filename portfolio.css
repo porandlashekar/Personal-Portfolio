@@ -207,7 +207,7 @@ header {
   font-weight: 600;
 }
 .btn-primary{
-  margin-left: 100px;
+  margin-left: 72px;
   color: #3d5a80;
   background: #e0fbfc;
 }
@@ -414,7 +414,14 @@ header {
 .proj-2 .proj2-details button:hover .fas {
   color: #f0f0e6;
 }
-
+.proj-2 .main p a {
+  text-decoration: none;
+  color: #5a0de8b9;
+  font-size: 1.1rem;
+  margin-left: 77px;
+  text-align: center;
+  
+}
 .more-work {
   text-align: center;
   margin: 3rem 0 1rem 0;
@@ -430,6 +437,7 @@ header {
   text-decoration: none;
   color: #f0f0e6;
   font-size: 1.3rem;
+  
 }
 
 .more-work a:hover {
