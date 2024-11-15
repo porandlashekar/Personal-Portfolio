@@ -273,13 +273,13 @@ header {
   content: "70%";
 }
 .progress-line .bootstrap::after {
-  content: "30%";
+  content: "70%";
 }
 .progress-line .javascript::after {
-  content: "30%";
+  content: "60%";
 }
 .progress-line .c::after {
-  content: "50%";
+  content: "60%";
 }
 
 .navbar.solid {
