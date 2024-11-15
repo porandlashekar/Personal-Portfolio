@@ -231,13 +231,13 @@ header {
   width: 70%;
 }
 .progress-line .bootstrap {
-  width: 30%;
+  width: 70%;
 }
 .progress-line .javascript {
-  width: 30%;
+  width: 60%;
 }
 .progress-line .c {
-  width: 50%;
+  width: 60%;
 }
 
 .bar .progress-line span::before {
